@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517967634208",
+    "project_id": "digimatic-law",
+    "storage_bucket": "digimatic-law.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517967634208:android:26088a46c9da3ccb2ac145",
+        "android_client_info": {
+          "package_name": "com.example.digimaticlaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517967634208-9u5qvl8kdpgt4qtijlpvaeddbjeievov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDC9DxyQ7i_4dO_k_MExcwvPHsIkceH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517967634208-9u5qvl8kdpgt4qtijlpvaeddbjeievov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
